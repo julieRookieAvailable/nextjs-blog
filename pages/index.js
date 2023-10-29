@@ -34,7 +34,7 @@ export default function Home({ allPostsData }) {
           ))}
         </ul>
        
-       <p>Hola, soy Juliette y este es mi blog personal para practicar en Next.Js</p>
+       <p>Hola, soy Juliette Aimée y este es mi blog personal para practicar en Next.Js</p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)

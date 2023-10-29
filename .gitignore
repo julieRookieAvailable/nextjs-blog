@@ -4,7 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
-
+.vs/slnx.sqlite
+/.vs/slnx.sqlite
 # testing
 /coverage
 
